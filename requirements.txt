@@ -1,0 +1,10 @@
+numpy==1.26.4
+matplotlib==3.8.4
+gymnasium==0.29.1
+stable-baselines3==2.3.2
+torch==2.2.2
+wandb==0.16.6
+jupyter==1.0.0
+tqdm==4.66.2
+imageio==2.34.0
+ale-py==0.8.1
