@@ -511,7 +511,7 @@ def main():
     # ---- Plot ----
     print("\nGenerating training dashboard...")
     plot_training(stats, agent, env,
-                  save_path="week-01/training_results.png")
+                  save_path="training_results.png")
 
 
 if __name__ == "__main__":

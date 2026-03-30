@@ -31,5 +31,5 @@ if __name__ == "__main__":
     plt.xlabel("Episode")
     plt.ylabel("Total reward")
     plt.title("Random agent on CartPole-v1")
-    plt.savefig("week-01/random_agent_rewards.png")
+    plt.savefig("random_agent_rewards.png")
     plt.show()
